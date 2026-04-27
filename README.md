@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>تعاريف ايام ااسبوع</title>
+
+</head>
+<body>
+    <h1> السلام عليكم اكتب ايام الاسبوع بل عربي  بل عربي ما ابي انجليزي </h1>
+    
+    </button> </button>
+</body>
+</html>
+<script src="Untitled-1.js"></script>
